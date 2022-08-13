@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: fevieira27.github.io
+Token: 438f6e0521a5d8731c256baf548daa5e04e75bc9f4ad528eea115ca5f6211a34
